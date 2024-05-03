@@ -113,6 +113,4 @@ help or help <command> Ex:
 * Place
 * Review
 
-# `Authors`
-
-**Besthor Igbe** **[Email](besthortechhub@gmail.com)**
+# `Authors'
